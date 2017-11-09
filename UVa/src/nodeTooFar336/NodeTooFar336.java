@@ -48,6 +48,7 @@ public class NodeTooFar336 {
 		if (initialVertex == 0 && ttl == 0) {
 			scanner.close();
 			return;
+			
 		}
 
 	}
